@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.summary = "Devise Google Authenticator Extension"
 
   s.required_ruby_version = '>= 1.9.2'
-  s.required_rubygems_version = '>= 2.1.0'
+  s.required_rubygems_version = '>= 1.3.6'
 
   s.add_development_dependency('bundler', '~> 1.3.0')
 
